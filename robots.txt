@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://noxparfum.com.br/sitemap.xml

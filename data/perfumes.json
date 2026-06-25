@@ -1,0 +1,94 @@
+[
+  {
+    "id": "club-de-nuit",
+    "nome": "Club de Nuit Intense Man",
+    "marca": "Armaf",
+    "preco": "45,00",
+    "volume": "Decant 10ml",
+    "imagem": "assets/images/products/club-de-nuit.jpg",
+    "pagina": "perfumes/club-de-nuit.html",
+    "descricao": "Uma fragrância marcante, sofisticada e extremamente elogiada. Ideal para quem busca presença, elegância e alto impacto.",
+    "familia": "Amadeirado / Cítrico",
+    "fixacao": "Alta",
+    "projecao": "Alta",
+    "ocasiao": "Noite, encontros, eventos e ocasiões especiais",
+    "clima": "Versátil",
+    "notasTopo": [
+      "Limão",
+      "Abacaxi",
+      "Bergamota"
+    ],
+    "notasCoracao": [
+      "Bétula",
+      "Jasmim",
+      "Rosa"
+    ],
+    "notasFundo": [
+      "Almíscar",
+      "Âmbar cinzento",
+      "Baunilha"
+    ],
+    "whatsapp": "Olá! Tenho interesse no decant de 10ml do Club de Nuit Intense Man por R$45,00."
+  },
+  {
+    "id": "asad-bourbon",
+    "nome": "Asad Bourbon",
+    "marca": "Lattafa",
+    "preco": "45,00",
+    "volume": "Decant 10ml",
+    "imagem": "assets/images/products/asad-bourbon.jpg",
+    "pagina": "perfumes/asad-bourbon.html",
+    "descricao": "Perfume intenso, quente e envolvente. Uma escolha para quem gosta de fragrâncias com personalidade e presença sofisticada.",
+    "familia": "Oriental / Especiado",
+    "fixacao": "Alta",
+    "projecao": "Alta",
+    "ocasiao": "Noite, eventos, encontros e dias frios",
+    "clima": "Frio e ameno",
+    "notasTopo": [
+      "Especiarias",
+      "Lavanda",
+      "Toque adocicado"
+    ],
+    "notasCoracao": [
+      "Baunilha",
+      "Madeiras",
+      "Acorde quente"
+    ],
+    "notasFundo": [
+      "Âmbar",
+      "Madeiras nobres",
+      "Notas gourmand"
+    ],
+    "whatsapp": "Olá! Tenho interesse no decant de 10ml do Asad Bourbon por R$45,00."
+  },
+  {
+    "id": "rifaaqat",
+    "nome": "Rifaaqat",
+    "marca": "Paris Corner",
+    "preco": "49,90",
+    "volume": "Decant 10ml",
+    "imagem": "assets/images/products/rifaaqat.jpg",
+    "pagina": "perfumes/rifaaqat.html",
+    "descricao": "Elegante, refinado e envolvente. Uma fragrância para quem gosta de exclusividade e deseja deixar uma impressão marcante.",
+    "familia": "Amadeirado / Especiado",
+    "fixacao": "Alta",
+    "projecao": "Moderada/Alta",
+    "ocasiao": "Trabalho, jantar, noite e ocasiões especiais",
+    "clima": "Ameno e frio",
+    "notasTopo": [
+      "Especiarias",
+      "Toque floral"
+    ],
+    "notasCoracao": [
+      "Rosa",
+      "Madeiras",
+      "Acorde elegante"
+    ],
+    "notasFundo": [
+      "Âmbar",
+      "Almíscar",
+      "Madeira"
+    ],
+    "whatsapp": "Olá! Tenho interesse no decant de 10ml do Rifaaqat por R$49,90."
+  }
+]
