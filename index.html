@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NOX Parfum | Catálogo</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="hero">
+    <nav class="navbar">
+      <div class="logo-wrap"><img src="logo-nox.png" alt="NOX Parfum" class="brand-logo"></div>
+      <a class="nav-button" href="https://wa.me/5524981528704?text=Olá! Vim pelo catálogo da NOX Parfum e gostaria de atendimento." target="_blank">Atendimento</a>
+    </nav>
+
+    <section class="hero-content">
+      <p class="tag">Decants premium • fragrâncias selecionadas</p>
+      <h1>Sua assinatura em cada fragrância.</h1>
+      <p class="subtitle">Conheça perfumes marcantes em versões práticas para você experimentar, usar e se destacar.</p>
+      <a href="#catalogo" class="main-button">Ver catálogo</a>
+    </section>
+  </header>
+
+  <main>
+    <section id="catalogo" class="catalog-section">
+      <div class="section-title">
+        <p>Catálogo NOX</p>
+        <h2>Escolha sua fragrância</h2>
+      </div>
+
+      <div class="grid" id="perfumeGrid"></div>
+    </section>
+  </main>
+
+  <div class="modal" id="modal">
+    <div class="modal-content">
+      <button class="close" id="closeModal">×</button>
+      <img id="modalImage" src="" alt="Perfume" />
+      <div class="modal-info">
+        <p class="modal-brand" id="modalBrand"></p>
+        <h3 id="modalName"></h3>
+        <p id="modalDescription"></p>
+
+        <div class="info-list">
+          <div><strong>Família:</strong> <span id="modalFamily"></span></div>
+          <div><strong>Ocasião:</strong> <span id="modalOccasion"></span></div>
+          <div><strong>Fixação:</strong> <span id="modalFixation"></span></div>
+          <div><strong>Volume:</strong> <span id="modalVolume"></span></div>
+        </div>
+
+        <a class="whatsapp-button" id="whatsappButton" target="_blank">Comprar pelo WhatsApp</a>
+      </div>
+    </div>
+  </div>
+
+  
+  <footer class="premium-footer">
+    <div class="footer-inner">
+      <img src="logo-nox.png" class="footer-logo" alt="NOX Parfum">
+      <h2>NOX PARFUM</h2>
+      <p class="footer-tag">ESSENCE OF MYSTERY</p>
+      <p class="footer-quote">Não é apenas um perfume. É a sua assinatura.</p>
+      <a class="footer-instagram" href="https://www.instagram.com/noxparfum_/" target="_blank">@noxparfum_</a>
+      <p class="footer-copy">Fragrâncias selecionadas • Decants Premium • Exclusividade</p>
+      <p class="footer-copy">© 2026 NOX Parfum. Todos os direitos reservados.</p>
+    </div>
+  </footer>
+
+
+  <a class="float-whatsapp" href="https://wa.me/5524981528704?text=Olá! Vim pelo catálogo da NOX Parfum e gostaria de atendimento." target="_blank" aria-label="WhatsApp">WhatsApp</a>
+
+  <script src="script.js"></script>
+</body>
+</html>
