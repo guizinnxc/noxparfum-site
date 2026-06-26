@@ -14,19 +14,13 @@
     "ocasiao": "Noite, encontros, eventos e ocasiões especiais",
     "clima": "Versátil",
     "notasTopo": [
-      "Limão",
-      "Abacaxi",
-      "Bergamota"
+      "Notas de saída elegantes"
     ],
     "notasCoracao": [
-      "Bétula",
-      "Jasmim",
-      "Rosa"
+      "Acorde sofisticado"
     ],
     "notasFundo": [
-      "Almíscar",
-      "Âmbar cinzento",
-      "Baunilha"
+      "Base marcante"
     ],
     "whatsapp": "Olá! Tenho interesse no decant de 10ml do Club de Nuit Intense Man por R$45,00."
   },
@@ -45,19 +39,13 @@
     "ocasiao": "Noite, eventos, encontros e dias frios",
     "clima": "Frio e ameno",
     "notasTopo": [
-      "Especiarias",
-      "Lavanda",
-      "Toque adocicado"
+      "Notas de saída elegantes"
     ],
     "notasCoracao": [
-      "Baunilha",
-      "Madeiras",
-      "Acorde quente"
+      "Acorde sofisticado"
     ],
     "notasFundo": [
-      "Âmbar",
-      "Madeiras nobres",
-      "Notas gourmand"
+      "Base marcante"
     ],
     "whatsapp": "Olá! Tenho interesse no decant de 10ml do Asad Bourbon por R$45,00."
   },
@@ -76,19 +64,39 @@
     "ocasiao": "Trabalho, jantar, noite e ocasiões especiais",
     "clima": "Ameno e frio",
     "notasTopo": [
-      "Especiarias",
-      "Toque floral"
+      "Notas de saída elegantes"
     ],
     "notasCoracao": [
-      "Rosa",
-      "Madeiras",
-      "Acorde elegante"
+      "Acorde sofisticado"
     ],
     "notasFundo": [
-      "Âmbar",
-      "Almíscar",
-      "Madeira"
+      "Base marcante"
     ],
     "whatsapp": "Olá! Tenho interesse no decant de 10ml do Rifaaqat por R$49,90."
+  },
+  {
+    "id": "fakhar-gold",
+    "nome": "Fakhar Lattafa Gold",
+    "marca": "Lattafa",
+    "preco": "45,00",
+    "volume": "Decant 10ml",
+    "imagem": "assets/images/products/fakhar-gold.jpg",
+    "pagina": "perfumes/fakhar-gold.html",
+    "descricao": "Uma fragrância elegante, dourada e marcante, com presença sofisticada e visual luxuoso. Ideal para quem deseja exclusividade e impacto.",
+    "familia": "Oriental / Floral",
+    "fixacao": "Alta",
+    "projecao": "Moderada/Alta",
+    "ocasiao": "Eventos, noite, encontros e ocasiões especiais",
+    "clima": "Ameno e frio",
+    "notasTopo": [
+      "Notas de saída elegantes"
+    ],
+    "notasCoracao": [
+      "Acorde sofisticado"
+    ],
+    "notasFundo": [
+      "Base marcante"
+    ],
+    "whatsapp": "Olá! Tenho interesse no decant de 10ml do Fakhar Lattafa Gold por R$45,00."
   }
 ]

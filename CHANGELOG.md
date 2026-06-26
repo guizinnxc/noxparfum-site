@@ -1,11 +1,7 @@
 # Changelog
 
-## V1.0
-- Estrutura profissional criada.
-- Landing page premium.
-- Catálogo dinâmico com dados em JSON.
-- Páginas individuais para Club de Nuit, Asad Bourbon e Rifaaqat.
-- WhatsApp integrado.
-- Instagram integrado.
-- SEO básico com sitemap e robots.
-- Layout responsivo.
+## V2
+- Novo layout premium do catálogo.
+- Imagens dos perfumes inteiras no card.
+- Adicionado Fakhar Lattafa Gold por R$45,00.
+- Página individual do novo perfume.

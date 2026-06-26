@@ -1,12 +1,8 @@
 
-const whatsappNumber = "5524981528704";
-const instagramUrl = "https://www.instagram.com/noxparfum_/";
-
 async function loadPerfumes(){
   const response = await fetch("data/perfumes.json");
   return await response.json();
 }
-
 function createCard(perfume){
   const article = document.createElement("article");
   article.className = "card";
@@ -19,15 +15,12 @@ function createCard(perfume){
       <h3>${perfume.nome}</h3>
       <p>${perfume.volume}</p>
       <strong class="price">R$ ${perfume.preco}</strong>
-      <a class="btn btn-gold" href="${perfume.pagina}">Ver detalhes</a>
+      <a class="btn btn-gold" href="${perfume.pagina}">Ver detalhes <span>→</span></a>
     </div>
   `;
   return article;
 }
-
 loadPerfumes().then(perfumes => {
   const grid = document.querySelector("#catalogoGrid");
-  if(grid){
-    perfumes.forEach(perfume => grid.appendChild(createCard(perfume)));
-  }
+  if(grid){ perfumes.forEach(perfume => grid.appendChild(createCard(perfume))); }
 });
